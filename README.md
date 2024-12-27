@@ -19,7 +19,8 @@ I wanted to just focus on my interaction with the httpforever.com site so I went
 
 Alternatively, if I wanted to just see conversations with a specific port, I can use filter: tcp.port == 80 for HTTP.
 
-![Ipfilter](https://github.com/user-attachments/assets/70fe210f-e8b7-47db-bfaf-bfbd181da3c2)
+![Screenshot 2024-12-27 084745](https://github.com/user-attachments/assets/c34cce68-7f42-43fc-8ec5-387687f5272f)
+
 
 Now that I narrowed down the information I am looking for on this PCAP, I went ahead investigated the 3-way handshake under the TCP tab. Looking at the information, the site succesfully completed the 3-way handshake. 
 
